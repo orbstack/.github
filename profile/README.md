@@ -1,4 +1,4 @@
-[OrbStack](https://orbstack.dev) is the fast, light, and easy way to run Docker containers and Linux machines on macOS. It's a supercharged WSL and Docker Desktop alternative, all in one easy-to-use app.
+[OrbStack](https://orbstack.dev) is the fast, light, and easy way to run Docker containers and Linux machines. It's a supercharged WSL and Docker Desktop alternative, all in one easy-to-use app.
 
 **Say goodbye to slow, clunky containers and VMs.** Develop at lightspeed with our Docker Desktop alternative. **[Get started](https://docs.orbstack.dev/quick-start)**
 
